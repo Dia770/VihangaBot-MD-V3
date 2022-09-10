@@ -15,7 +15,7 @@
         "AUTO_BIO" :{
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
     "required" : true,
-  "value" : "true"
+  "value" : "Rejoins moi sur Malian Coders (Whatsapp Group)"
     },
                 "INBOXBLOCK" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
