@@ -1,8 +1,8 @@
 {
-    "name": "VIHANA MD",
+    "name": "IRONBOT",
     "description": "whatsapp md bot build with nodejs",
-    "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
-    "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
+    "repository": "https://github.com/Dia770/VihangaBot-MD-V3",
+    "logo": "https://ibb.co/D5RYbrX",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
   
@@ -50,19 +50,19 @@
         "WELCOME_MSG" :{
     "description" : "TYPE WELCOME MSG",
     "required" : true,
-  "value" : "*HELLO WELCOME TO OUR GROUP*"
+  "value" : "*BIENVENUE SUR NOTRE GROUPE*"
     },
   
                 "BYE_MSG" :{
     "description" : "TYPE BYE MSG",
     "required" : true,
-  "value" : "*BYE BRO*"
+  "value" : "*A LA PROCHAINE x)*"
     },
         
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
-  "value" : "*IM ALIVE NOW*"
+  "value" : "*YO QUOI DE NEUF !!?*"
     },
         
 "CALL_BLOCK" :{
@@ -98,67 +98,67 @@
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "0022390442359"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "0022390442359"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "0022390442359"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "IRON BOT"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "Amadou DIALLO / Abbah / Deezy"
     },
       
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/LagCqEEOKGx4favqrMV5Y1"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/chat.whatsapp.com/LagCqEEOKGx4favqrMV5Y1"
 },
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "STICKER BY IRON BOT"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*BY IRON BOT*"
 },
     
 "IMG_URL" :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
-  "value" : "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
+  "value" : "https://ibb.co/D5RYbrX"
 },
   
   "YT_URL" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
-    "required" : true,
-    "value" :"https://youtu.be/Z9rIR0Vopb8"
+    "required" : false,
+    "value" :"https://www.youtube.com/channel/UCO2t4kSRpRv9GYQORr7qt-A/featured"
     }
     },
   
